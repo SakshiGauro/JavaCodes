@@ -24,7 +24,7 @@ public class Student
         gradeLevel = grade;
         gpa=sGpa;
     }
-    
+   
     /**
      * This is a toString for the Student class. It returns a String
      * representation of the object, which includes the fields

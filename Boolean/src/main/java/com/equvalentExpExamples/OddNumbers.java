@@ -10,7 +10,7 @@ public class OddNumbers
         System.out.println("Enter 2 positive integers");
         int num1 = input.nextInt();
         int num2 = input.nextInt();
-        
+ 
         //Determine if both numbers are odd with bothOdd boolean
         // Do NOT remove this line!
         boolean bothOdd = num1 % 2 != 0 && num2 % 2 != 0;

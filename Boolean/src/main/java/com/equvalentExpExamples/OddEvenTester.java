@@ -10,7 +10,6 @@ public class OddEvenTester
             System.out.println("Enter 2 positive integers");
             int num1 = input.nextInt();
             int num2 = input.nextInt();
-            
             //Call bothOdd method in OddEven class to determine if both 
             //numbers are odd
             if(OddEven.bothOdd(num1, num2))

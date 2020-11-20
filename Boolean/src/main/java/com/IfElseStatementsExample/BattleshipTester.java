@@ -10,8 +10,7 @@ public class BattleshipTester
         // Check initial positions
         System.out.println(submarine);
         System.out.println(carrier);
-        
-        
+
         // Test: Safely move submarine
         System.out.println("Submarine cleared to proceed");
         submarine.move(true);

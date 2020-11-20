@@ -13,3 +13,4 @@ public class RaterTesting
         System.out.println(rate);
     }
 }
+ 

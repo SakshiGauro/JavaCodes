@@ -11,7 +11,6 @@ public class Rater
         name = company;
         rating = initialRating;
         review = "";
-        
     }
     
     // Set rating to newRating

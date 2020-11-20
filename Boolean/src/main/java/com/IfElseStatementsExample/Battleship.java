@@ -9,7 +9,6 @@ public class Battleship
         shipType = type;
         position = shipPosition;
     }
-    
     // Moves the ship
     // If safeToMove is true, add 5 to position
     // else subtract 5 from position

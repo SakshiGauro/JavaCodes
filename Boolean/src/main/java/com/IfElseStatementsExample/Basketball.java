@@ -6,7 +6,6 @@ public class Basketball
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
-        
         // Start by listing the steps you need to take
         System.out.println("Enter player one's name: ");
         String pName1= input.nextLine();

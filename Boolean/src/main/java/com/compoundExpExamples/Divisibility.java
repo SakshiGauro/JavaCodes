@@ -15,6 +15,5 @@ public class Divisibility
             System.out.println(dend +" is divisible by " +sor+"!");
         else 
             System.out.println(dend +" is not divisible by " +sor+"!");
-        
     }
 }

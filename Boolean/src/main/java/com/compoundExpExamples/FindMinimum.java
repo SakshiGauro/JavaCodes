@@ -1,6 +1,6 @@
 package com.compoundExpExamples;
 import java.util.Scanner;
-
+ 
 public class FindMinimum 
 {
     public static void main(String[] args)

@@ -1,6 +1,6 @@
 package com.compoundExpExamples;
 import java.util.Scanner;
-
+ 
 public class RollerCoaster 
 {
     public static void main(String[] args)

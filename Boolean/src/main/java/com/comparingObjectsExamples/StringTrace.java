@@ -11,7 +11,6 @@ public class StringTrace
         {
             str1 = str2;
         }
-        
         if (str1 == str2)
         {
             System.out.println("str1 and str2 refer to the same object");

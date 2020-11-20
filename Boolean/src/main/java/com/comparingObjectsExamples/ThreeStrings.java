@@ -12,7 +12,6 @@ public class ThreeStrings
         String str2= input.nextLine();
         System.out.println("Third string? ");
         String str3= input.nextLine();
-        
         // Use a Boolean variable to test the comparison of 
         // first+second equals third
         // Remember since you are working with strings to 

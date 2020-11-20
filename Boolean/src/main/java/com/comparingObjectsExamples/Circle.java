@@ -13,7 +13,6 @@ public class Circle
         x = xPosition;
         y = yPosition;
     }
-    
     public int getRadius()
     {
         return radius;

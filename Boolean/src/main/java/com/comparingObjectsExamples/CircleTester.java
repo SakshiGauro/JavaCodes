@@ -17,7 +17,6 @@ public class CircleTester
             System.out.println(one);
             System.out.println(two);
         }
-        
         if(three.equals(four))
         {
             System.out.println("Circles three and four are equal!");

@@ -27,8 +27,6 @@ public class ShipTester
         System.out.println("\nSub attacks Destroyer");
         destroyer.isAttacked(sub.getPower());
         System.out.println(destroyer);
-
-
     }
 }
 

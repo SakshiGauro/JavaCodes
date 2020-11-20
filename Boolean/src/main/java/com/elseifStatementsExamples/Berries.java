@@ -22,8 +22,6 @@ public class Berries
             System.out.println("You ordered goji berry");
         else
             System.out.println("Berry not recognized");
-        
-        
         // Now you can compare characters using ==
         
         // Use comments to list the different

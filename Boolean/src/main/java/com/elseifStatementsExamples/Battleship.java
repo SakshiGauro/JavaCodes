@@ -22,7 +22,6 @@ public class Battleship
             health -=5;
         else
             health -=7;
-
     }
     
     // Returns true if the health of

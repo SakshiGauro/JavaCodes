@@ -6,7 +6,6 @@ public class Student
     private int gradeLevel;
     private double gpa;
     // Add GPA instance variable called gpa here.
-
     /**
      * This is a constructor.  A constructor is a method
      * that creates an object -- it creates an instance

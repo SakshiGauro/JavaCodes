@@ -9,3 +9,4 @@ public class RectangleTester
         System.out.println(rect);
     }
 }
+ 

@@ -4,7 +4,6 @@ public class Rectangle
     // Attributes
     private int width;
     private int height;
-    
     // Constructor
     public Rectangle(int rectWidth, int rectHeight)
     {

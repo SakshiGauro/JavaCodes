@@ -10,7 +10,7 @@ public class Rater
         name = company;
         rating = initialRating;
     }
-    
+
     // Set rating to newRating
     // As long as it's no more than 5
     public void setRating(double newRating)

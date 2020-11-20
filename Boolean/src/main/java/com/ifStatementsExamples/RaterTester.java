@@ -5,7 +5,6 @@ public class RaterTester
     {
         Rater jrs = new Rater("Jr Cookery", 2);
         
-        
         // Test Case: In the middle
         System.out.println("Current Rating: " + jrs.getRating());
         System.out.println(jrs);

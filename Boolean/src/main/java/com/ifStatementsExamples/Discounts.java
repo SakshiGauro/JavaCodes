@@ -19,6 +19,5 @@ public class Discounts
             cost=20;
         // Display the final cost
         System.out.println("You owe $"+ cost);
-        
     }
 }

@@ -21,7 +21,7 @@ public class TripleDouble
         boolean poi= points>=10;
         boolean reb= rebounds>=10;
         boolean ass= assists>=10;
-        
+       
         System.out.println("You got 10 or more points: "+poi);
         System.out.println("You got 10 or more rebounds: "+reb);
         System.out.println("You got 10 or more assists: "+ ass);

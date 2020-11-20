@@ -6,7 +6,6 @@ public class DrinkOrder
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
-        
         // Start here!
         // You'll find it helpful to list the steps you
         // need to take, then write the code

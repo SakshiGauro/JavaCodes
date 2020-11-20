@@ -16,6 +16,5 @@ public class MicrowaveCooking
             System.out.println("Perfect cooking time!");
         if (time>20)
             System.out.println("Your roll will catch fire!");
-            
     }
 }

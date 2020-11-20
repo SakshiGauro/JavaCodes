@@ -11,8 +11,6 @@ public class Rectangle
         width = rectWidth;
         height = rectHeight;
     }
-   
-    
     // This method lets us print out the object
     // to see the values of the instance variables
     public String toString()

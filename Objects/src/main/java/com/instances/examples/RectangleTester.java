@@ -5,7 +5,7 @@ public class RectangleTester
     { 
         // Create a rectangle with width 5 and height 12
         Rectangle rect= new Rectangle (5,12);
-        System.out.println(rect);
         // Then print it out
+        System.out.println(rect);
     }
 }

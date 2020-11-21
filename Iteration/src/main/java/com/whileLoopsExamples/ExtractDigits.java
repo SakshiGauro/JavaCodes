@@ -1,4 +1,4 @@
-package com.iterationExamples;
+package com.whileLoopsExamples;
 public class ExtractDigits
 {
     public static void main(String[] args)

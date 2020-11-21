@@ -1,4 +1,4 @@
-package com.iterationExamples;
+package com.whileLoopsExamples;
 import java.util.Scanner;
 public class GuessTheNumber
 { 

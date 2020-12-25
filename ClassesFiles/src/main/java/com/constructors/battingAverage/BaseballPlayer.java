@@ -1,4 +1,4 @@
-package com.constructors;
+package com.constructors.battingAverage;
 public class BaseballPlayer
 {
     private int hits;

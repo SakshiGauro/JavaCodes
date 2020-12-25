@@ -1,4 +1,4 @@
-package com.constructors;
+package com.constructors.battingAverage;
 public class BaseballTester
 {
     public static void main(String[] args)

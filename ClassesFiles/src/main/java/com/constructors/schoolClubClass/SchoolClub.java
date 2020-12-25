@@ -1,4 +1,5 @@
-package com.constructors;
+package com.constructors.schoolClubClass;
+
 public class SchoolClub
 {
 

@@ -1,5 +1,5 @@
-package com.constructors;
-public class StudentTester2
+package com.constructors.schoolClubClass;
+public class StudentTester
 {
     public static void main(String[] args)
     {

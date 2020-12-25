@@ -1,5 +1,5 @@
-package com.constructors;
-public class Student2
+package com.constructors.schoolClubClass;
+public class Student
 {
     private String firstName;
     private String lastName;
@@ -12,7 +12,7 @@ public class Student2
      * this constructor. Make sure your code matches the call in the
      * tester.
      */
-    public Student2(String fFirstName, String lLastName, int gGradeLevel, String sSchool)
+    public Student(String fFirstName, String lLastName, int gGradeLevel, String sSchool)
     {
         firstName=fFirstName;
         lastName=lLastName;
@@ -20,7 +20,7 @@ public class Student2
         school=sSchool;
     } 
     
-    public Student2(String fFirstName, String lLastName, int gGradeLevel)
+    public Student(String fFirstName, String lLastName, int gGradeLevel)
     {
         firstName=fFirstName;
         lastName=lLastName;

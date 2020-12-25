@@ -1,4 +1,4 @@
-package com.constructors;
+package com.constructors.dogClass;
 public class Dog
 {
     private String name;

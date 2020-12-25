@@ -12,6 +12,7 @@ public class AddFractions
          System.out.println("The numerator of the second fraction is " + c);
          System.out.println("The denominator of the second fraction is "+ d);
         int sumNum=a*d+ b*c;
-         System.out.println ("The sum of "+a+"/"+b+"+"+c+"/"+d+"="+sumNum+"/" + b*d );    
+         System.out.println ("The sum of "+a+"/"+b+"+"+c+"/"+d+"="+sumNum+"/" + b*d );
+
     } 
 }

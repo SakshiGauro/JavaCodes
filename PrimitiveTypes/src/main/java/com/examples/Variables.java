@@ -16,5 +16,6 @@ public class Variables
         System.out.println(numFirst);
         System.out.println(numSecond);
         System.out.println(answer);
+
     }
 }

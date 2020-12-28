@@ -18,14 +18,15 @@ public Car(double carEfficiency, double carTankCapacity)
 
 **Methods:**
 ```
-* public void addGas()- this method should fill the car with gas up 
-to the tank capacity. The method should print `Filling up ...`
+* public void addGas()- this method should fill the car with gas up to the tank capacity. The method should print `Filling up ...`
 
-* public void addGas(double amount) - This should add amount to the tank. If the amount is greater than the capacity, set the gas to the tank capacity. The method should print `Adding gas ...`
+* public void addGas(double amount) - This should add amount to the tank. If the amount is greater than the capacity, set the gas to 
+the tank capacity. The method should print `Adding gas ...`
 
 * public double getTotalMilesDriven() - returns the number of miles the car has driven
 
-* public void drive(double distance) - checks if car can drive that number of miles, and then adds miles to totalMilesDriven and subtracts the amount of gas needed to go those miles. The method should print `Driving [distance]` or, if the distance is too far, it should print `Can't drive [distance]. That's too far!`
+* public void drive(double distance) - checks if car can drive that number of miles, and then adds miles to totalMilesDriven and 
+subtracts the amount of gas needed to go those miles. The method should print `Driving [distance]` or, if the distance is too far, it should print `Can't drive [distance]. That's too far!`
 
 * public boolean canDrive (double distance) - returns true if the car has gas
 

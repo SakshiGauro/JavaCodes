@@ -11,7 +11,6 @@ The `Chef` class should have getter methods for all instance variables, _as well
 
 The `Chef` class should also have a `toString` that when printed returns the name of the chef, the restaurant they work at, and the meal that they are best known for:
 ```
-Chef Karel works at Chuck E Cheese and is best known for 
-Toast, which has 100 calories.
+Chef Karel works at Chuck E Cheese and is best known for Toast, which has 100 calories.
 ```
 There is a `Meal` and `Chef` already prepared for you in the `ChefTester` class. Please add another meal and chef and print the `toString` and the meal recipe to the console.

@@ -26,7 +26,8 @@ the tank capacity. The method should print `Adding gas ...`
 * public double getTotalMilesDriven() - returns the number of miles the car has driven
 
 * public void drive(double distance) - checks if car can drive that number of miles, and then adds miles to totalMilesDriven and 
-subtracts the amount of gas needed to go those miles. The method should print `Driving [distance]` or, if the distance is too far, it should print `Can't drive [distance]. That's too far!`
+subtracts the amount of gas needed to go those miles. The method should print `Driving [distance]` or, if the distance is too far, 
+it should print `Can't drive [distance]. That's too far!`
 
 * public boolean canDrive (double distance) - returns true if the car has gas
 

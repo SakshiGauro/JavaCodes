@@ -1,12 +1,12 @@
 package com.mutatorsMethods.fraction;
 
-public class Fraction
+public class FractionMM
 {
     // Create your instance variables and constructor here
     private int num;
     private int deno;
     
-    public Fraction(int x,int y){
+    public FractionMM(int x, int y){
         num = x;
         deno = y;
     }
@@ -33,19 +33,19 @@ public class Fraction
         deno = x;
     }
     
-    public void add(Fraction other) {
+    public void add(FractionMM other) {
         // IMPLEMENT THIS METHOD
         num = num * other.getDenominator() + deno * other.getNumerator();
         deno = deno * other.getDenominator();
     }
     
-    public void subtract(Fraction other) {
+    public void subtract(FractionMM other) {
         // IMPLEMENT THIS METHOD
         num = num * other.getDenominator() - deno * other.getNumerator();
         deno = deno * other.getDenominator();
     }
     
-    public void multiply(Fraction other) {
+    public void multiply(FractionMM other) {
         // IMPLEMENT THIS METHOD
         num = num * other.getNumerator();
         deno = deno * other.getDenominator();

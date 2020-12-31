@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.castingToDouble;
 import java.util.Scanner;
 
 public class CastingToDouble

@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.fallingBodies;
 public class FallingBodies
 {
     public static void main(String[] args)
@@ -9,6 +9,5 @@ public class FallingBodies
         double v=g*t;
         System.out.println("The height is "+ height +" m.");
         System.out.println("The velocity is "+ v + "m/s.");
-
     }
 }

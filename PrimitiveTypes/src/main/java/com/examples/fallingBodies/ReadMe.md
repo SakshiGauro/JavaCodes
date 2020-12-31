@@ -4,7 +4,7 @@ A free fall is when an object is falling freely with no forces acting upon it ex
 **h = .5 * g * t^2**
 
 **v = g * t**
-
+ 
 Use **g** as a final variable to solve the following problems in Java.
 
 1. You’re standing at the edge of a cliff and drop a ball. It takes 10 sec to hit the ground. How high up are you? In other words, what’s the height of the cliff?

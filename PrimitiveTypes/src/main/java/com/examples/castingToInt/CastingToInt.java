@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.castingToInt;
 import java.util.Scanner;
 
 public class CastingToInt

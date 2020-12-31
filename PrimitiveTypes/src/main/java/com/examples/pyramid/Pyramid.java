@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.pyramid;
 
 public class Pyramid
 {

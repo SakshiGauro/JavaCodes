@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.movieRatings;
 import java.util.Scanner;
 
 public class MovieRatings

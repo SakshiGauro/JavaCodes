@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.addFraction;
 public class AddFractions 
 {
     public static void main(String[] args)

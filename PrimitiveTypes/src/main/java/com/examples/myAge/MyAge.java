@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.myAge;
 import java.util.Scanner;
 //Refer to your code from the previous My Age exercise. 
 // Modify it using the Scanner class to take user input instead of hard coding in your age. 

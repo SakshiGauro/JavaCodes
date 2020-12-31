@@ -1,4 +1,4 @@
-package com.examples;
+package com.examples.variables;
 public class Variables 
 {
     public static void main(String[] args)

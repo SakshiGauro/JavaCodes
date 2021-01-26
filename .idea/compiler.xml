@@ -6,14 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ArraysCodes" />
-        <module name="ClassesCodes" />
+        <module name="IterationCodes" />
         <module name="PrimitiveCodes" />
+        <module name="BooleanCodes" />
+        <module name="ArraysCodes" />
+        <module name="ArrayList" />
+        <module name="ClassesCodes" />
+        <module name="ObjectsCodes" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ArrayList" target="8" />
       <module name="ArraysCodes" target="8" />
+      <module name="BooleanCodes" target="1.5" />
       <module name="ClassesCodes" target="1.5" />
+      <module name="IterationCodes" target="1.5" />
+      <module name="ObjectsCodes" target="1.5" />
       <module name="PrimitiveCodes" target="1.5" />
     </bytecodeTargetLevel>
   </component>

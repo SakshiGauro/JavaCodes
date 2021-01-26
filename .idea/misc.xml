@@ -6,6 +6,10 @@
         <option value="$PROJECT_DIR$/ClassesFiles/pom.xml" />
         <option value="$PROJECT_DIR$/PrimitiveTypes/pom.xml" />
         <option value="$PROJECT_DIR$/ArraysCodes/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/Boolean/pom.xml" />
+        <option value="$PROJECT_DIR$/Iteration/pom.xml" />
+        <option value="$PROJECT_DIR$/Objects/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,4 +1,4 @@
-package com
+package com.twodArray.arrayPractice;
 
 public class ArrayPractice
 {

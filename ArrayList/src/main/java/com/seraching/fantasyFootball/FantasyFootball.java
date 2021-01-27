@@ -1,4 +1,4 @@
-package com.sorting.fantasyFootball;
+package com.seraching.fantasyFootball;
 
 import java.util.ArrayList;
 import java.util.Scanner;

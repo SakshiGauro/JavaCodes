@@ -1,4 +1,4 @@
-package com.sorting.arrayListSearch;
+package com.seraching.arrayListSearch;
 
 import java.util.ArrayList;
 

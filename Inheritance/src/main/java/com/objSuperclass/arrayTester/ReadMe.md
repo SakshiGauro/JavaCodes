@@ -1,4 +1,4 @@
-#2D Array Tester
+# 2D Array Tester
 
 For the final exercise, we are going to create a 2D Array tester. We want our tester to be versatile, so the class has been designed to take any 2D Object. Polymorphism will allow us to pass any Object type in and do a comparision using that object’s .equal method.
 

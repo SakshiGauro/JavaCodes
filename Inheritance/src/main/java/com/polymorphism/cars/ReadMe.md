@@ -1,4 +1,4 @@
-#Cars
+# Cars
 In this exercise, we are going to revist our `Car` and `ElectricCar` class from lesson 3. In lesson 3, you were given the `Car` class and needed to complete the `ElectricCar` class. You can use your code from that exercise to get started here.
 
 The focus of this exercise is the `CarTester` class. In this class, you will prompt the user for a car model and if the car is not electric, you will also prompt the user for the miles per gallon. For each car, you will add it to a single ArrayList.

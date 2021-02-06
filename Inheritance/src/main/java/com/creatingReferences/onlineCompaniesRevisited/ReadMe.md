@@ -1,4 +1,4 @@
-#Online Companies Revisited
+# Online Companies Revisited
 For this problem, we are going to revisit the Online Company exercise from lesson 3. In lesson 3, we created 3 classes, a superclass `Company`, a subclass `OnlineCompany` and a runner class `CompanyTester`. 
 
 Your task is to create a loop that will allow users to enter companies that will then get stored in an ArrayList. You should first prompt users for the company name. If the user enters `exit`, then the program should exit and print the object using the toString.

@@ -2,8 +2,8 @@
 
 
 ```
-This is my code
+Java lessons based on Codehs (nitro). 
 
 ```
-### JavaCodes example
+
 
